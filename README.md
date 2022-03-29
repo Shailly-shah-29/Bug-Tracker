@@ -120,13 +120,13 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Varun Saini - [Linked in](https://www.linkedin.com/in/shailly-shah/)
+Shailly Shah - [Linked in](https://www.linkedin.com/in/shailly-shah/)
 
 
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/varun-sainii
+[linkedin-url]: https://www.linkedin.com/in/shailly-shah/
 [product-screenshot]: images/bug_tracker_login_ss.png
 [product-screenshot1]: images/bug_tracker_db_ss.png
 [product-screenshot2]: images/bug_tracker_open_ss.png
