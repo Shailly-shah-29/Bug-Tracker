@@ -1,4 +1,4 @@
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 
 
@@ -85,7 +85,7 @@ Follow the procedure below
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/varun-saini-18/bug-tracker.git
+   git clone https://github.com/Shailly-shah-29/Bug-Tracker.git
    ```
 2. Install NPM packages
    ```sh
