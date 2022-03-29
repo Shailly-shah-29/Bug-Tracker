@@ -120,7 +120,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Varun Saini - [Linked in](https://www.linkedin.com/in/varun-sainii/)
+Varun Saini - [Linked in](https://www.linkedin.com/in/shailly-shah/)
 
 
 
